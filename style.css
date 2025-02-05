@@ -1,0 +1,19 @@
+.img_plataformas{
+        width: 200px;
+        height: 55px;
+        }
+
+body {
+    background-color: rgb(202, 193, 182);
+    color: teal;
+}
+
+a{
+    color:rgb(29, 22, 94); 
+}
+
+span{
+    color: rgb(83, 83, 83);
+    border: 1px solid #22D4FD;
+    padding: 2px;
+}
